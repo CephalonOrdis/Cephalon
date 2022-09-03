@@ -14,5 +14,6 @@ A lot more recently, **I've started to take an interest into the world of Machin
 
 ## :ghost: Socials
 If you wish to contact me, I am most likely to respond via:
-+ *[Twitter](https://discord.js.org/#/) (@Ceqhalon)*
++ *[Twitter](https://twitter.com/Ceqhalon) (@Ceqhalon)*
 + *Discord (@ceph#4422)*
+
